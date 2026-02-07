@@ -10,8 +10,8 @@ function Contact({ cart }) {
   return (
     <section id="contact" style={{ padding: "100px 40px", background: "#eee" }}>
       <h2>Contactez-nous</h2>
-      <p>📧 Email: contact@sneakershop.com</p>
-      <p>📞 Téléphone: +509 1234 5678</p>
+      <p>📧 Email: contact@morlan-store.com</p>
+      <p>📞 Téléphone: +509 32312949</p>
 
       <form style={{ display: "flex", flexDirection: "column", gap: "15px", marginTop: "20px", maxWidth: "600px" }}>
         <input type="text" placeholder="Nom" />
